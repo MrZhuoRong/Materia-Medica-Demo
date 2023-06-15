@@ -1,0 +1,302 @@
+{
+    "playerInfo": {
+        "playerHP": 10,
+        "playerMaxHP": 10,
+        "playerPosition": {
+            "x": -13.9312162399292,
+            "y": 0.45630860328674319,
+            "z": 0.0
+        },
+        "itemDatas": [
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            },
+            {
+                "itemType": 0,
+                "itemCount": 0
+            }
+        ],
+        "ListIsBagFull": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "FaceBookLocks": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    }
+}
